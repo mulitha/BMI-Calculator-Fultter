@@ -1,7 +1,7 @@
 # BMI-Calculator-Fultter
 Create Beautiful BMI Calculator with Flutter
 
-# Let's build this awsome UI and funality with flutter
+# Let's build this awsome UI and functionality with flutter
 
 Ruben Vaalt's BMI Calculator concept: https://dribbble.com/shots/4585382-Simple-BMI-Calculator
 
